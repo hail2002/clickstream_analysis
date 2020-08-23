@@ -1,0 +1,9 @@
+scikit-learn
+torch>=1.2
+matplotlib
+scipy
+pandas
+numpy
+ipykernel
+ipython
+
