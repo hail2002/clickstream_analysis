@@ -4,7 +4,7 @@
 
 ## Инструкция по запуску 
 
-1) Cклонируйте репозиторий курса:
+1) Cклонируйте репозиторий:
 
 `git clone https://github.com/hail2002/clickstream_analysis.git`
 
